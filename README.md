@@ -9,7 +9,9 @@ My project is a zero-player game that takes in an initial random state and gener
 4. Any dead cell with exactly three live neighbours becomes a live cell, as if by reproduction.
 ```
 ## Demonstration
-![Alt Text](https://imgur.com/a/pa38X0l)
+![Demo](Capture1.PNG)
+![Demo](Capture2.PNG)
+![Demo](Capture3.PNG)
 
 
 ## Known Bugs
